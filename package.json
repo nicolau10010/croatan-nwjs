@@ -1,0 +1,19 @@
+{
+  "name": "croatan",
+  "version": "1.0.0",
+  "description": "A new way to manage your movies",
+  "main": "index.html",
+  "author": "Dimitri Nicolau",
+  "license": "ISC",
+  "window": {
+    "show": false,
+    "min_width": 1000,
+    "min_height": 900,
+    "width": 1000,
+    "height": 900,
+    "toolbar": true
+  },
+  "dependencies": {
+    "swig": "^1.4.2"
+  }
+}
