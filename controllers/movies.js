@@ -7,7 +7,7 @@ myApp.movies.init = function () {
 };
 
 myApp.movies.listenForEvents = function () {
-	$('#tt0405159').click(function (){
+	$('.movie').click(function (){
 		var id = $(this).attr('id');
 		console.log('s');
 	});
